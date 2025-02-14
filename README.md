@@ -35,7 +35,7 @@ Interactive filtering by season, team, and venue
 - Step 4: Enhancing Interactivity with Slicers
 - Step 5: Finalizing the Dashboard Layout
 
-# dashboard
+# Dashboard
 ![IPL Dashboard Analysis - Excel Project 1 Dashboard](https://github.com/user-attachments/assets/395c3bad-5fb1-4179-bc81-d7244a393e0f)
 
 
