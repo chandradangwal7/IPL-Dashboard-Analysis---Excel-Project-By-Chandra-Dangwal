@@ -28,6 +28,17 @@ Interactive filtering by season, team, and venue
 # Dashboard
 - <a href="https://github.com/chandradangwal7/IPL-Dashboard-Analysis---Excel-Project-By-Chandra-Dangwal/blob/main/IPL%20Dashboard%20Analysis%20-%20Excel%20Project%201%20Dashboard.png"> Dashboaard Overview </a>
 
+# Process of Building the Dashboard
+- Step 1: Data Collection and Cleaning
+- Step 2: Creating Pivot Tables
+- Step 3: Implementing Charts and Visual Representations
+- Step 4: Enhancing Interactivity with Slicers
+- Step 5: Finalizing the Dashboard Layout
+
+# dashboard
+![IPL Dashboard Analysis - Excel Project 1 Dashboard](https://github.com/user-attachments/assets/395c3bad-5fb1-4179-bc81-d7244a393e0f)
+
+
 
 
 
