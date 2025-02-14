@@ -56,8 +56,11 @@ By leveraging Excel’s powerful analytical tools, I was able to create an insig
 # Future Improvements
 
 •	Integrate Power BI for enhanced interactivity and real-time data connections.
+
 •	Apply SQL to query and manipulate large datasets efficiently.
+
 •	Use Python for Data Analysis to perform deeper statistical analysis.
+
 This project marks the beginning of my data analytics journey, and I am excited to learn and grow in this field!
 
 
