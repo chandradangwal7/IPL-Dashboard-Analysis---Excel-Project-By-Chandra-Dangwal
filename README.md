@@ -1,2 +1,3 @@
 # IPL-Dashboard-Analysis---Excel-Project-By-Chandra-Dangwal
-This interactive Excel dashboard analyzes IPL data (2008-2020) using Pivot Tables, Slicers, and Charts. It provides insights into team performance, toss impact, and player stats. Built using data from Kaggle, this project enhances data visualization and analytics skills for structured decision-making. 
+## The objective of this project is to analyze Indian Premier League (IPL) match data (2008-2020) by creating an interactive Excel dashboard using Pivot Tables, Slicers, and Data Visualization techniques. It aims to extract key insights into team performance, player achievements, toss impact, and venue trends, enhancing data-driven decision-making. This project also demonstrates business intelligence concepts, improving data analytics, visualization, and dashboard creation skills for real-world applications in sports analytics and business intelligence. 
+
