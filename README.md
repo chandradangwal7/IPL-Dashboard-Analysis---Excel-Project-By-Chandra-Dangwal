@@ -8,7 +8,7 @@
 
 -<a href="https://youtu.be/urhI3pEBEBY?si=huH-AmTv10pFoU1e"> YouTube Tutorial Reference </a>
 
-## Questions (KPI's)
+# Questions (KPI's)
 Total matches won by each team
 
 Win percentage when batting first vs. chasing
@@ -25,7 +25,7 @@ Team performance trends over multiple seasons
 
 Interactive filtering by season, team, and venue
 
-#Dashboard
+# Dashboard
 - < a href="https://github.com/chandradangwal7/IPL-Dashboard-Analysis---Excel-Project-By-Chandra-Dangwal/blob/main/IPL%20Dashboard%20Analysis%20-%20Excel%20Project%201%20Dashboard.png"> Dashboaard Overview </a>
 
 
