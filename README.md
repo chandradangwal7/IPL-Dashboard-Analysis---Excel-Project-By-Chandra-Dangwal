@@ -8,5 +8,24 @@
 
 -<a href="https://youtu.be/urhI3pEBEBY?si=huH-AmTv10pFoU1e"> YouTube Tutorial Reference </a>
 
+## Questions (KPI's)
+Total matches won by each team
+
+Win percentage when batting first vs. chasing
+
+Top 10 Man of the Match (MOM) award winners
+
+Impact of toss decisions on match outcomes
+
+Venue-wise win percentage
+
+IPL title winners by season
+
+Team performance trends over multiple seasons
+
+Interactive filtering by season, team, and venue
+
+
+
 
 
