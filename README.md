@@ -26,7 +26,8 @@ Team performance trends over multiple seasons
 Interactive filtering by season, team, and venue
 
 # Dashboard
-- < a href="https://github.com/chandradangwal7/IPL-Dashboard-Analysis---Excel-Project-By-Chandra-Dangwal/blob/main/IPL%20Dashboard%20Analysis%20-%20Excel%20Project%201%20Dashboard.png"> Dashboaard Overview </a>
+- <a href="https://github.com/chandradangwal7/IPL-Dashboard-Analysis---Excel-Project-By-Chandra-Dangwal/blob/main/IPL%20Dashboard%20Analysis%20-%20Excel%20Project%201%20Dashboard.png"> Dashboaard Overview </a>
+
 
 
 
